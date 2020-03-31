@@ -1,2 +1,2 @@
 # SVM-CNN-RNN-HAN-Popular-NLP-Models
-Four easy to use baselines for NLP research
+Easy to use baselines for NLP research
